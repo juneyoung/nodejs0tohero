@@ -10,11 +10,11 @@ This is a summary note of Udemy lecture ( title : Node Program: From 0 to Hero w
 - Want to prevent to deploy to production, `npm install lodash --save-dev`
 - Can revive `/node_modules` folder, if you have `package.json`. command is `npm install`
 - Want to exclude dev libraries, do `npm install --production`
-- Integrate with npm website 
+- Integrate with npm website<br>
 	`npm adduser` and a prompt will be showed up
-- Setting configuration values 
-	`npm init.set.auther.name "juneyoung"`
-	`npm init.set.auther.email "juneyoung@hanmail.net"`
+- Setting configuration values<br> 
+	`npm init.set.auther.name "juneyoung"`<br>
+	`npm init.set.auther.email "juneyoung@hanmail.net"`<br>
 	`npm init.set.auther.url "virtual://juneyoung.co.kr"`
 - `npm publish`?
 - can list `/node_modules` folder by command `npm ls`. `-g` option for `global`
